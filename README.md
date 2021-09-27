@@ -1,4 +1,4 @@
-# Test Pokeon
+# Test Pokemon
 
 Pedro Flores
 # Getting Started with Create React App
